@@ -1,0 +1,112 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* MacNetworkingTestingAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 706}}";
+			sepNavSelRange = "{368, 10}";
+			sepNavVisRange = "{0, 813}";
+			sepNavWindowFrame = "{{39, 400}, {885, 778}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* MacNetworkingTestingAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {593, 2656}}";
+			sepNavSelRange = "{1228, 0}";
+			sepNavVisRange = "{1078, 185}";
+			sepNavWindowFrame = "{{726, 118}, {885, 778}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BC977DC411508273009A8F38 /* MacNetworkingTesting */;
+		activeTarget = 8D1107260486CEB800E47090 /* MacNetworkingTesting */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MacNetworkingTesting */,
+		);
+		codeSenseManager = BC977DCF1150827A009A8F38 /* Code sense */;
+		executables = (
+			BC977DC411508273009A8F38 /* MacNetworkingTesting */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 290488947;
+			PBXWorkspaceStateSaveDate = 290488947;
+		};
+		sourceControlManager = BC977DCE1150827A009A8F38 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 706}}";
+			sepNavSelRange = "{83, 0}";
+			sepNavVisRange = "{0, 208}";
+			sepNavWindowFrame = "{{38, 374}, {885, 778}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* MacNetworkingTesting */ = {
+		activeExec = 0;
+		executables = (
+			BC977DC411508273009A8F38 /* MacNetworkingTesting */,
+		);
+	};
+	BC977DC411508273009A8F38 /* MacNetworkingTesting */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MacNetworkingTesting;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BC977DCE1150827A009A8F38 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BC977DCF1150827A009A8F38 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BC977DD1115082DB009A8F38 /* Server.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 1392}}";
+			sepNavSelRange = "{391, 0}";
+			sepNavVisRange = "{1473, 2006}";
+			sepNavWindowFrame = "{{554, 211}, {885, 778}}";
+		};
+	};
+	BC977DD2115082DB009A8F38 /* Server.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {826, 8672}}";
+			sepNavSelRange = "{2563, 12}";
+			sepNavVisRange = "{1300, 1453}";
+			sepNavWindowFrame = "{{15, 0}, {885, 778}}";
+		};
+	};
+}

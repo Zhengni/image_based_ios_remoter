@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'iOSAnnotation' target in the 'iOSAnnotation' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import <VDARSDK/VDARSDK.h>
+#endif
